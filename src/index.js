@@ -48,8 +48,8 @@ let questions = [
       imgSrc : "img/math.jpg",
       choiceA : "11",
       choiceB : "2",
-      choiceC : "13",
-      correct : "B"
+      choiceC : "24",
+      correct : "C"
   }
 ];
 
