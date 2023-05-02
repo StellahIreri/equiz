@@ -11,7 +11,6 @@ const choiceA = document.getElementById("A");
 const choiceB = document.getElementById("B");
 const choiceC = document.getElementById("C");
 
-// let questions;
 
 // create our questions
 let questions = [
