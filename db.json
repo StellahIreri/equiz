@@ -7,6 +7,38 @@
         "choiceB"  : "Madrid",
         "choiceC"  : "Helsinki",
         "correct"  : "A"
+    },
+    {
+        "question"  :"What is the capital of Kenya?",
+        "imgSrc"  : "img/kenya.png",
+        "choiceA"  : "Arusha",
+        "choiceB"  : "Nairobi",
+        "choiceC"  : "Mombasa",
+        "correct"  : "B"
+    },
+    {
+        "question"  : "What is the capital of Djibouti?",
+        "imgSrc"  : "img/djibouti.png",
+        "choiceA"  : "Djibouti",
+        "choiceB"  : "Bunjumbura",
+        "choiceC"  : "Kigali",
+        "correct"  : "A"
+    },
+    {
+        "question"  : "What is the square of 5?",
+        "imgSrc"  : "img/sq.png",
+        "choiceA"  : "25",
+        "choiceB"  : "10",
+        "choiceC"  : "5",
+        "correct"  : "A"
+    },
+    {
+        "question"  :  "What is 2(9+3)=?",
+        "imgSrc"  : "img/math.jpg",
+        "choiceA"  : "11",
+        "choiceB"  : "2",
+        "choiceC"  : "24",
+        "correct"  : "C"
     }
 ]
 }
