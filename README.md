@@ -6,6 +6,10 @@ After clicking the button "Start Quiz" the user should clicks their choice answe
 automatically goes to the next and finally displays result in % after the last quesion.
 
 
+Live website link: https://equiz.vercel.app/
+Api url: http://localhost:3000/questions
+
+
 
 Future plans//
 To add functionalities such as: exporting of one's results to a downloadable format, adding different modules(for various subject/modules) and including a nav bar for easier navigation throughout the site, authentication
